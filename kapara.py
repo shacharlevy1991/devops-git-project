@@ -1,1 +1,1 @@
-print("My head hurts")
+1
